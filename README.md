@@ -9,4 +9,4 @@ When for example trust relationship is broken between server and domain computer
 
 Launch using Join.bat preferably, to bypass execution policy and run as administrator with a simple double click!
 
-Needless to say, beware when leaving your password in clear.
+Needless to say, beware when leaving your passwords in clear.
