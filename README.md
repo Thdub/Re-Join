@@ -1,5 +1,6 @@
 # Re-Join
-Rejoin domain task automation
+Rejoin domain task automation.
+
 When for example trust relationship is broken between server and domain computers you can't send gpo/scheduled task remotely and have to login with local administrator account, take computer out of domain, restart, log in locally, re-add, restart...
 
 2 cases :
@@ -8,4 +9,4 @@ When for example trust relationship is broken between server and domain computer
 
 Launch using Join.bat preferably, to bypass execution policy and run as administrator with a simple double click!
 
-Beware when leaving your password in clear.
+Needless to say, beware when leaving your password in clear.
